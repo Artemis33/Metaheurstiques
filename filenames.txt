@@ -1,0 +1,17 @@
+centSommets
+cinqCentSommets
+cinqSommets
+cinquanteSommets
+dixMilleSommets
+dixSeptSommets
+dixSommets
+milleSommets
+quatreSommets
+quinzeSommets
+trenteSommets
+vingtCinqSommets
+vingtDeuxSommets
+vingtEtunSommets
+vingtQuatreSommets
+vingtSommets
+vingtTroisSommets
